@@ -3,7 +3,6 @@
 Link para download da base de dados 'dataset': https://drive.google.com/file/d/17Km8BjAAZ9bAuWpq4FQ-u3bFq76I6SXa/view?usp=sharing
 
   - Ultilizar streamlit para visualização local
-  - Descompactar arquivo 'dados'
   
 ## Contexto:
 No Airbnb, qualquer pessoa que tenha um quarto ou um imóvel de qualquer tipo (apartamento, casa, chalé, pousada, etc.) pode ofertar o seu imóvel para ser alugado por diária.
